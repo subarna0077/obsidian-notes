@@ -1,0 +1,5 @@
+{
+  "folder": "🌞Daily notes",
+  "template": "templates/Daily Planner - {{date}}",
+  "format": "YYYY-MM-DD"
+}

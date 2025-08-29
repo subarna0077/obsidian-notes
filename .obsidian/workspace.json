@@ -1,0 +1,255 @@
+{
+  "main": {
+    "id": "a32adc7be90781c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "f06c36fafbb36b6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0db740c431476db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Django/🔌Django Rest Framework/DRF Serializers - Must-Know Functions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DRF Serializers - Must-Know Functions"
+            }
+          },
+          {
+            "id": "9c9af2ad5fa90feb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Django/🔌Django Rest Framework/DRF Serializers - Must-Know Functions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DRF Serializers - Must-Know Functions"
+            }
+          },
+          {
+            "id": "d4319c68a1f0d4ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self-Notes/Args and Kwargs in Python.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Args and Kwargs in Python"
+            }
+          },
+          {
+            "id": "a7211bbbb621647c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b1829d20b68bc5d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "29153f041ca5877c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e734e9f02a96e83",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6651b3855f252a32",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7d0f4376230e371b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 438.5
+  },
+  "right": {
+    "id": "8e36f360eaa0cc14",
+    "type": "split",
+    "children": [
+      {
+        "id": "13d66e8422ee9103",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3595c20a74723040",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "POSTGRES FULL NOTES.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for POSTGRES FULL NOTES"
+            }
+          },
+          {
+            "id": "155cb66ab01b9523",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Home"
+            }
+          },
+          {
+            "id": "3d6e8cd181e485dc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6cfdf796d902a8b3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Home"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "8e734e9f02a96e83",
+  "lastOpenFiles": [
+    "Programming/Database/Postgres full notes.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "task/Blogging-platform.md",
+    "task/Untitled.md",
+    "TYPESCRIPT.md",
+    "Topics covered today.md",
+    "TABLE.md",
+    "Datatypes.md",
+    "Programming/Containerization",
+    "Untitled",
+    "Confusions.md",
+    "Resources/pdf/slides.pdf",
+    "Resources/pdf/postgresql-cheat-sheet-a4.pdf",
+    "POSTGRES FULL NOTES.md",
+    "Programming/Containerization/Docker.md",
+    "method_overriding.md",
+    "How to create a model in POSTGRES.md",
+    "Programming/Django/Django Models.md",
+    "Django Models.md",
+    "Untitled.canvas",
+    "SET CONSTRAINTS.md",
+    "Real life project using react.md",
+    "React.md",
+    "Permission Classes.md",
+    "Pasted image 20250618115034.png",
+    "ORDER BY Keyword.md",
+    "Joins.md",
+    "inheritance_in_python.md",
+    "Home.md",
+    "HAVING Keyword.md",
+    "Django notes.md",
+    "Daily Planner - {{date}}.md",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Confusion (later to be deeply research)",
+    "postgresql-cheat-sheet-a4 1.pdf",
+    "OOP",
+    "🌞Daily notes"
+  ]
+}
