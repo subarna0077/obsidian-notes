@@ -103,4 +103,6 @@ If you **don't** use `through`, Django will auto-create a hidden join table like
 |**OrderItem**|Intermediate model that connects Product & Order with extra fields|
 |**Why needed**|To store quantity, subtotal, etc., per product in each order|
 
-#through #joins #relations #django #database
+#through #joins #relations #django #database 
+
+yo this is neww
