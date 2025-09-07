@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "task/Novel system.md",
+                "file": "Programming/Containerization/Docker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Novel system"
+              "title": "Docker"
+            }
+          },
+          {
+            "id": "88ee654609585ae2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Containerization/Caching with Redis + Django.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Caching with Redis + Django"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -89,7 +103,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -187,10 +202,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9c9af2ad5fa90feb",
+  "active": "6651b3855f252a32",
   "lastOpenFiles": [
-    "task/Blogging-platform.md",
+    "Untitled.md",
+    "Programming/Containerization/Caching with Redis + Django.md",
+    "Programming/Containerization/Docker.md",
     "task/Novel system.md",
+    "Untitled",
+    "task/Blogging-platform.md",
     "Programming/Django/🔌Django Rest Framework/DRF Serializers - Must-Know Functions.md",
     "Self-Notes/Understanding the models in Django.md",
     "Untitled.base",
@@ -205,12 +224,10 @@
     "TABLE.md",
     "Datatypes.md",
     "Programming/Containerization",
-    "Untitled",
     "Confusions.md",
     "Resources/pdf/slides.pdf",
     "Resources/pdf/postgresql-cheat-sheet-a4.pdf",
     "POSTGRES FULL NOTES.md",
-    "Programming/Containerization/Docker.md",
     "method_overriding.md",
     "How to create a model in POSTGRES.md",
     "Programming/Django/Django Models.md",
@@ -223,8 +240,6 @@
     "ORDER BY Keyword.md",
     "Joins.md",
     "inheritance_in_python.md",
-    "Home.md",
-    "HAVING Keyword.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Confusion (later to be deeply research)",
