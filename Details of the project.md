@@ -24,3 +24,5 @@ Place client detailing , add about 10 design works in a page. make it small
 
 Add running project page below the design work
 Add completed project page below the running project page.
+
+Add CV to the engineer profile
