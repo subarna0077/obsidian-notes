@@ -16,3 +16,11 @@
 
 Include top tier office in place of the brands in the brands page.
 Make a full page for a client logos.
+
+Add message from managing director page in 2nd page
+
+Add design work in place of recent works
+Place client detailing , add about 10 design works in a page. make it small 
+
+Add running project page below the design work
+Add completed project page below the running project page.
