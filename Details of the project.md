@@ -28,3 +28,6 @@ Add completed project page below the running project page.
 Add CV to the engineer profile
 
 Add videos / interviews in the blog section at last.
+
+Add linkedin in footer.
+Remove detail 
