@@ -79,12 +79,14 @@
             "id": "fa2c7269653e8ad6",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.3"
+                "file": "Details of the project.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "icon": "lucide-file",
+              "title": "Details of the project"
             }
           }
         ],
@@ -241,6 +243,11 @@
   },
   "active": "fa2c7269653e8ad6",
   "lastOpenFiles": [
+    "Untitled.base",
+    "Untitled.canvas",
+    "Untitled.md",
+    "Untitled 1.base",
+    "🌞Daily notes/2025-08-29.md",
     "Details of the project.md",
     "Programming/Django/🔌Django Rest Framework/JWT Authentication in DRF.md",
     "Programming/Django/🔌Django Rest Framework/Generic Views.md",
@@ -248,7 +255,6 @@
     "Programming/Django/🔌Django Rest Framework/DRF View Patterns - When to Use What.md",
     "Programming/Django/🔌Django Rest Framework/DRF Serializers - Must-Know Functions.md",
     "Programming/Django/🔌Django Rest Framework/DRF - Spectacular - DRF API Documentation.md",
-    "🌞Daily notes/2025-08-29.md",
     "🌞Daily notes/2025-08-28.md",
     "🌞Daily notes/2025-08-13.md",
     "🌞Daily notes/2025-08-06.md",
@@ -260,19 +266,14 @@
     "Programming/Django/🔌Django Rest Framework/Serializers.md",
     "Programming/Django/🔌Django Rest Framework/has_permission vs has_object_permission.md",
     "Programming/Containerization/Caching with Redis + Django.md",
-    "Untitled.md",
     "Programming/Containerization/Docker.md",
     "task/Novel system.md",
     "Untitled",
     "task/Blogging-platform.md",
     "Self-Notes/Understanding the models in Django.md",
-    "Untitled.base",
-    "Untitled 1.base",
-    "Untitled.canvas",
     "Untitled 2.base",
     "Untitled 3.base",
     "Programming/Database/Postgres full notes.md",
-    "TYPESCRIPT.md",
     "Programming/Containerization",
     "Resources/pdf/slides.pdf",
     "Resources/pdf/postgresql-cheat-sheet-a4.pdf",
