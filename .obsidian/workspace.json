@@ -74,9 +74,21 @@
               "icon": "lucide-file",
               "title": "Details of the project"
             }
+          },
+          {
+            "id": "fa2c7269653e8ad6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -227,7 +239,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1d3814dbe179740a",
+  "active": "fa2c7269653e8ad6",
   "lastOpenFiles": [
     "Details of the project.md",
     "Programming/Django/🔌Django Rest Framework/JWT Authentication in DRF.md",
