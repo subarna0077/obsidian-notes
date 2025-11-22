@@ -510,3 +510,220 @@ You don’t need it initially, but eventually, knowing how **frontend → backen
         
 
 > You will naturally understand “the stack” while working on real projects. No need to study the full stack theoretically before touching the database.
+
+# **3-Month Roadmap for Mastering Problem Solving + React + Django**
+
+## **Phase 1 — Foundations & Problem-Solving Mindset (Weeks 1–2)**
+
+**Goal:** Strengthen programming fundamentals, DSA mindset, and active problem-solving.
+
+### **Daily Breakdown (6 hrs)**
+
+1. **DSA + Logic Thinking (2 hrs)**
+    
+    - CLRS Chapters: 1–4 (Algorithms, recursion, divide & conquer, Big-O)
+        
+    - Solve 3–5 problems/day in Python or JS (arrays, loops, recursion)
+        
+    - Focus: Breaking problems into steps, thinking before coding
+        
+2. **Python Practice (1 hr)**
+    
+    - Solve small problems (strings, lists, dictionaries)
+        
+    - Practice **writing clean, modular code**
+        
+3. **React Basics (1 hr)**
+    
+    - Build tiny components
+        
+    - Practice state, props, event handling
+        
+    - Focus on understanding **what happens behind the scenes**:
+        
+        - `useState`, `useEffect` execution order
+            
+        - Rendering & re-rendering
+            
+4. **Django Basics (2 hrs)**
+    
+    - Build small API endpoints
+        
+    - Trace request → view → ORM → response
+        
+    - Use **print/log statements** to understand workflow
+        
+    - Learn serializers, simple CBVs, middleware
+        
+
+**Output:**
+
+- Be able to solve small problems without looking at solutions
+    
+- Understand **basic React and Django workflows**
+    
+
+---
+
+## **Phase 2 — Applied DSA + Framework Integration (Weeks 3–6)**
+
+**Goal:** Apply DSA logic in real-world mini-projects and understand framework mechanics.
+
+### **Daily Breakdown (6 hrs)**
+
+1. **DSA + Problem Solving (2 hrs)**
+    
+    - Focus: Sorting, searching, hashmaps, stacks/queues
+        
+    - Solve problems that mimic **real app features**:
+        
+        - Filtering data
+            
+        - Searching in arrays
+            
+        - Pagination logic
+            
+    - Implement same problem in **Python + JS** to internalize logic
+        
+2. **React + Frontend Workflow (1.5 hrs)**
+    
+    - Build small interactive features:
+        
+        - Search input with debounce
+            
+        - Sortable table
+            
+        - Dynamic form with validation
+            
+    - Log **state and effects** to see “behind the scenes” behavior
+        
+    - Learn **performance optimizations** (memo, lazy loading)
+        
+3. **Django + Backend Workflow (1.5 hrs)**
+    
+    - Build APIs to support mini-projects
+        
+    - Understand ORM queries → SQL → database
+        
+    - Add **filtering, sorting, pagination, and authentication**
+        
+    - Explore middleware and request-response pipeline
+        
+4. **Mini Integration Project (1 hr)**
+    
+    - Example: **Movie dashboard**
+        
+        - Django API: movies, genres, ratings
+            
+        - React: list display, search, filters, pagination
+            
+        - Log every step: API request → backend → DB → response → state update → UI
+            
+
+**Output:**
+
+- Solve problems **with code AND logic reasoning**
+    
+- Understand **how React + Django interact under the hood**
+    
+- Build features like search, filter, pagination from scratch
+    
+
+---
+
+## **Phase 3 — Advanced Workflow + Full-Stack Projects (Weeks 7–12)**
+
+**Goal:** Solve complex real-life problems, handle edge cases, optimize workflows, and internalize the frameworks.
+
+### **Weekly Focus**
+
+1. **Project-Based Learning**
+    
+    - Build **one small project per week** with increasing complexity:
+        
+        1. Movie Dashboard (React + Django)
+            
+        2. Blog with comments, likes, and role-based permissions
+            
+        3. E-commerce mini-site: cart, checkout, product filtering, API integration
+            
+        4. Task management app: authentication, notifications, sorting, filtering
+            
+2. **Daily Structure**
+    
+    - **DSA + Logic Challenges (1 hr)**
+        
+        - Focus on patterns that appear in projects:
+            
+            - BFS/DFS → for hierarchical data (comments, categories)
+                
+            - Hashmaps → frequency, lookup
+                
+            - Divide & conquer → pagination, batch processing
+                
+    - **React Workflow Deep Dive (1.5 hr)**
+        
+        - Logs & trace state updates
+            
+        - Explore hooks internals
+            
+        - Performance profiling
+            
+    - **Django Workflow Deep Dive (1.5 hr)**
+        
+        - Trace ORM queries, middleware, request flow
+            
+        - Handle authentication & permissions
+            
+        - Error handling & edge cases
+            
+    - **Integration & Project Building (2 hr)**
+        
+        - Build features incrementally
+            
+        - Test each step with logging
+            
+        - Add optimizations
+            
+3. **Reflection & Optimization**
+    
+    - After finishing a feature, write down:
+        
+        - How state/data flows
+            
+        - How backend processes requests
+            
+        - Which DSA concepts you applied
+            
+        - How you would optimize further
+            
+
+**Output by Week 12:**
+
+- Ability to **decompose real-life problems and solve them efficiently**
+    
+- Strong understanding of **React & Django internal workflows**
+    
+- Confident in building full-stack apps **from scratch without tutorials**
+    
+- Comfortable reasoning about **performance, edge cases, and optimizations**
+    
+
+---
+
+# **Key Mindset Shifts**
+
+- Always **think in steps first, then code**
+    
+- Use **logs & tracing** to understand what happens under the hood
+    
+- Solve the same problem in **Python and JS** to internalize the logic
+    
+- Treat projects as **problem-solving exercises**, not just coding exercises
+    
+- Learn DSA patterns **through real-world application**, not just theory
+    
+
+---
+
+If you follow this roadmap strictly for 3 months:
